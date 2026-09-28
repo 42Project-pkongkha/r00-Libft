@@ -1,5 +1,3 @@
-.POSIX:
-
 SRCS = \
 ft_abs.c \
 ft_atoi.c \
